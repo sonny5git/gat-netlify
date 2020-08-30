@@ -38,9 +38,7 @@ export const query = graphql`
       featured_media {
         source_url
       }
-      categories {
-        name
-      }
+      categories
       excerpt
     }
   }

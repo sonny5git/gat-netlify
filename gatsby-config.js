@@ -26,7 +26,7 @@ module.exports = {
     {
       resolve: `gatsby-source-wordpress`,
       options: {
-        baseUrl: `codingsrc.com`,
+        baseUrl: `practice.codingsrc.com`,
         protocol: `https`,
         hostingWPCOM: false,
       },
