@@ -1,6 +1,6 @@
 import React from "react"
 
-import PrimaryLayout from "../layouts/PrimaryLayout"
+import PrimaryLayout from "../layouts/primarylayout"
 import { Form, Button } from "react-bootstrap"
 
 export default () => (

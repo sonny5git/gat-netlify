@@ -1,7 +1,7 @@
 import React from "react"
-import Header from "../components/Header"
-import Footer from "../components/Footer"
-import SEO from "../components/SEO"
+import Header from "../components/header"
+import Footer from "../components/footer"
+import SEO from "../components/seo"
 
 const PrimaryLayout = props => (
   <div>

@@ -1,5 +1,5 @@
 import React from "react"
-import PrimaryLayout from "../layouts/PrimaryLayout"
+import PrimaryLayout from "../layouts/primarylayout"
 export default () => (
   <PrimaryLayout column="col-xs-6">
     <h1>About Us</h1>

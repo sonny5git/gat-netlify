@@ -26,7 +26,7 @@ exports.createPages = ({ graphql, actions }) => {
     result.data.allWordpressPost.nodes.forEach(node => {
       createPage({
         path: node.slug,
-        component: path.resolve("./src/layouts/BlogpostLayout.js"),
+        component: path.resolve("./src/layouts/blogpostlayout.js"),
         context: {
           slug: node.slug,
         },
